@@ -1,0 +1,10 @@
+POST http://18.233.96.98:5000/generate/
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="Body"
+
+What is the reason to come to work
+--WebAppBoundary--
+
+###
